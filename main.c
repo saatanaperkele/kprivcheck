@@ -4,6 +4,7 @@ Checking Privledges in ToleranUX Kernel
 Jukka Lappalainen / Uncle Benis, 2015
 */
 #include "kprivinfo.h"
+#include "kpriv.h"
 
 static int __init
 kprivcheck_init(void){
